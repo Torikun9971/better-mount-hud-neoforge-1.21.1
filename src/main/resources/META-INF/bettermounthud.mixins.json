@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.lortseam.bettermounthud.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "bettermounthud.mixins.refmap.json",
+  "client": [
+    "GuiMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
